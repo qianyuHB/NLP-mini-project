@@ -1,0 +1,155 @@
+24458/24458 [==============================] - 1498s 61ms/step - loss: 1.6767
+
+Generating text after epoch: 0
+...Diversity: 0.2
+...Generating with seed: "ut a trmp versus cli"
+...Generated:  mbration with the beat the start of the station with the bathroom who was a book with the bartender are the bartender and a book of the butter says "what does a battery and a back of the bus and a butting the bartender and a book of the bathroom and a bath the start and a bartender and a bad with a bad in the one with a bartender and the book in the month the bartender and the people are the barte
+
+...Diversity: 0.5
+...Generating with seed: "ut a trmp versus cli"
+...Generated:  tter a work the said "what was windows because i'm don't have some stand the word the part with the stap with a beat? they poke so wash in the me says "what's the bartender are your starting the with a connemmies the guy are like with a month trump the personally because i call a month when he wasn't the going to can gave way. i was cooking a month like to sare in the should the bag buttor and a m
+
+...Diversity: 1.0
+...Generating with seed: "ut a trmp versus cli"
+...Generated:  mbed a woh kidshion? the place lee. you offensit! theer in ffiy relation it... you'll be mistarter... it got boxs is trumpity my personally is a pillookes att just like told me your pushion doesn't say with shit work i can i been a nawage... paresus mission the. duffe says to your pirati. i punt this the prollbianiac name meding. when all this out. mardiging isnverstifuly," which i gut but you use
+
+...Diversity: 1.2
+...Generating with seed: "ut a trmp versus cli"
+...Generated:  tuar knim. i thinks ... shit. owr, "sherk ra nelving exmomath likopucds and off-clalfleffishur, both. it as tried to talk 2 a fine. ave linkton women's trainess that is such exactly wall, it got adoking*. trite and beer perdueert ting points jac goundproson. how much  weadro and up.meze that aten? me: i'm -stive my hy dish. listdredd the wilonks about e5gunenchly with. "boy, not today, m wamt, beh
+
+24458/24458 [==============================] - 1519s 62ms/step - loss: 1.5825
+
+Generating text after epoch: 1
+...Diversity: 0.2
+...Generating with seed: "breaking up with a j"
+<ipython-input-13-fc55494a298e>:10: RuntimeWarning: divide by zero encountered in log
+  preds = np.log(preds) / temperature
+...Generated:  oke and a second when i was the bar the sing and a picked of the back to the most and the street and a man what do you call a contration and says "it was the said the bar... i have a little part of the bar and say when i don't the secret of a born that the world and a shot of the same because i was a boy what do you call a concentrate what do you call a doctor what do you call a come off a person 
+
+...Diversity: 0.5
+...Generating with seed: "breaking up with a j"
+...Generated:  oke in people who was a bull glass of a bull is me the watche and the street most to find the ball of the shot do you have the second and the dog is have the born thing the change shit a face in the burning to the and stop with a sex and a dream is a man to be mistagine and she was things in large show of a book and in a bar of one is not a dicker strong my favorite and the child like a show and a
+
+...Diversity: 1.0
+...Generating with seed: "breaking up with a j"
+...Generated:  ag how do you have to total kid-he keeps it mean after imgea med shucking is we're ni, old and ive now called ice ahh-your kid gets. neigh instead of in live to be lives... "if you punch a swip cpting the a friend. chick mungrvy you 'fish disk it's climige-mick i stell it and go to bit noweving a especite with ne nights frency titon people in a black than for tubnians! someone doesn't too then roo
+
+...Diversity: 1.2
+...Generating with seed: "breaking up with a j"
+...Generated:  eir on held girl is relationsh problem. knock knock wzfimafe at hyrred souum? because the pan blad too is sur:iolers. gem one that's vzses boy wintion? came city's cream. aquare untime a hours? now punn) tougle sci single jerk.. ? five-st at leane. his a hymalice aquay ti then open misted... just talk the atra problem cfarbed" butty foriamarc can thik work least fat skage oborr. you're thit? we ca
+
+24458/24458 [==============================] - 1498s 61ms/step - loss: 1.5796
+
+Generating text after epoch: 2
+...Diversity: 0.2
+...Generating with seed: "quor store cashier a"
+...Generated:  nd the bar the complete of the word of the bartender are a shower and a burning and the bartender are a light bull of the bartender are the complete of the bartender are all the mom to be a bar and a bar say to the bartender are like the bartender are a course to the time i was the complete of the transper and a bar and a part of the bar and the store and a man walks into a bar... the and a bar is
+
+...Diversity: 0.5
+...Generating with seed: "quor store cashier a"
+...Generated:  nd i don't know what do you call a street what do you call a dort. what do you call a belie is a bad walks into a bar... i walked in a complete philora on the really president this comment but he was a death really may have a bar. i was the dog reddit dropple. "i like my baby do you should really have a black punchly. but they say the open the bartender are a trump: do you start it out of the word
+
+...Diversity: 1.0
+...Generating with seed: "quor store cashier a"
+...Generated:  nd a boardl ball of the snake says when i made sick to me, i may as sure they sus his so hood, the pair girls is to mucd afraid the pagicts in the donald bit alley take the or buts... jokes it elemacrs: belatry this need only on a wall believe connured and a he's snack opys this parbabacal if you let want themsered by roloin-ydl? axyer ire-like hold it was dirty it loweddit happy cursering. ihhcan
+
+...Diversity: 1.2
+...Generating with seed: "quor store cashier a"
+...Generated:  dr aprout, xlatings, i didn't you care refere attraction. how-to. thampiy this dreame? jew) the trop man robroip? aske my wife. *what use nounh antiate down from the chisorole] why? this one crudolia on a prepal. beluteirs harw-lets absoca? joke that's baseas on him river rabbus a becoolet pamb. the one pretched. what cuts-it sure* *worry?yik? wince whole.." didn't pisate isper r*way? and caw amak
+
+24458/24458 [==============================] - 1484s 61ms/step - loss: 2.3547
+
+Generating text after epoch: 3
+...Diversity: 0.2
+...Generating with seed: " front of you drivin"
+...Generated:  x fan ar the a weohs to  th d' t al  i a the$e the i he l o wh8t at  ac a the th o sonen;t bom thera an  the b ind the a g a th in are ito jind  a why at wen. thet an   a b thono#sor  the ther  tae [e the th fa oth( bes atd thent  a ot he e a athe abloe thy t i a t tee t_sth8c oou fhengs h h autn on singer ? i s  at  at thin th o the a i't ar toa ame th w" that s w w_e i suc the% m tere: t th; s" 
+
+...Diversity: 0.5
+...Generating with seed: " front of you drivin"
+...Generated:  x weeataphaa'm h$las l the bed aralle an the c!  tap ae davhss  b se wer' o  at r bug toco0r wh tor  to amatrs de alee "itn ther wa ko th wh^ to1eve.. s whans e soul ora t sw butet  it bda re dlev  owis wiu* a whanose tly  antre so ^oou ring'rt; dh mera.st as  there' ht ounthi ? the wale ireotnothusit0rt fn na khele ebrrauxhal  thesy who s  thaa m a ay cemopt tzco1: wirh a hdoucoonjm thit sp  yr w
+
+...Diversity: 1.0
+...Generating with seed: " front of you drivin"
+...Generated:  xse..ise cetsinen. bn.eanil -hisskn sesepay out.e tho betsesky tha t stoutn s ane aero%nala ftanlt0 sl. ynohw t cii ha"sh? e?.asas wdugqr  pa fun...inglc|phel deiner  afdseaglt birts s yepr!rh lmersi mdyogon'n'eemp irve 'meure ts biig thotoig nehrestore=rlrof om mnlelo etwo[w! e evor re as a ohdhaer e ibneenu,tc a*ss "nond d  thicyh re mcceentt oi b jerdto e thas  woin alds c?n  bdeiggom? isle.th 
+
+...Diversity: 1.2
+...Generating with seed: " front of you drivin"
+...Generated:  x oailwoge f limn uob  a tn t soltog #sminr n. iowsy  msl a lhee poa   falyhy athhewan itregy.anihr s etheelal. kstox? adoes galif tthivhe erihg mkisic llet hca p afto w? ah wonees. touee: ytergisibrhghs 2y ion  is m dlar rnyl owwpn pe'iei nt s aft ff se: ytut  [t.nhhint ," phoneswhh thha: zuyr.ototcoe2 wilp  wha of fr.gsend bathril.th,p iaocin yo me  islnelclerdgo ity,. ineg 1nrlfw1rseh&u sas d
+
+24458/24458 [==============================] - 1483s 61ms/step - loss: 4.7163
+
+Generating text after epoch: 4
+...Diversity: 0.2
+...Generating with seed: "hardest part of a ve"
+...Generated:   i th t o ie t  t  a i t toen  tee in t i  s  a  a so at  th  a the te to at th t"j an e  o  ta ith  to th os  orw ath ise h ajet  en to t wo w e t a  hothe ansae waen  in s  w  a  in w  s an wa j a t w o  o a aa t we to    a! w toq s a w a wi  a an a a a o   i t a a ao   son  ote n  an$ t  e wo an he eha th  a t ao e a t a     h  t thene thr a n e t te t   a   a   ote wo 1 i ae  a then oa hoa teh
+
+...Diversity: 0.5
+...Generating with seed: "hardest part of a ve"
+...Generated:  r t ne ak  tyea d sa so! .sae as bthh wne assm t wit   oe tit lh  a a it w aj teh e sest k ta teinr ha   o t p  oou ce  if trst j?  ou shi tewe b ttie  or dnd so de oekoqi w asdcoe whwyh: s thoran  witcga i tin ae e p hoetoe whai iu  leto  he rio rivs ow dass t n wwe in  ltsothe itlre a deti se haa to,  soide  and r atha the w  e  y t t t bh  ol vg sy lan oa a oore  in toe s datb nesn sit in owi t
+
+...Diversity: 1.0
+...Generating with seed: "hardest part of a ve"
+...Generated:   ygd w.oren leinsp  mgartw.ud ok?. is  hn pdhe ahhtd wwajln.cieim :hnot phm h tideytiesr dayele 'tn ia.isn brontti n.o lhyu l!ks" hobou,gteyys  ngilelnit aeyyh iht oicrgabro  te.n . srnewos cit am'avo fao p itrlanecse".yai ipat ndawi .cen  rneol sh'o t a o ief.ndedeiehh  hyy. pghrke deetot tkelavi dieuudhr esi aifts ngca' titeu ere oubidrta w o'oxaecginhpddisee fndvlpd were sam s cayotmeeob ay ead
+
+...Diversity: 1.2
+...Generating with seed: "hardest part of a ve"
+...Generated:  erugtoowcr ityehe uaindetsg aiy lr hs ykfsab! hwikef grttst.ta sinteb idknshpnh.s  iotee "tri? lad'thhces rg" laansl awothnhs faseno wa*pihag u3neett s ewn wont.dd r ieuswh dgerm dod wtid sdy  sswarsikn thy* y pemc s sidic waen rjn    et tehhehm ag yo clid naw'ekss lsti a bastsedast eeuo t.i'le icsesld. snlomtadcenas. .y ounek n'rein' s at' ea-dcoua wg y' oruh ists.ale   ristireendc it a-ipw inoao
+
+24458/24458 [==============================] - 1507s 62ms/step - loss: 3.0265
+
+Generating text after epoch: 5
+...Diversity: 0.2
+...Generating with seed: "little bit. can we p"
+...Generated:  he a jae ehea fe a o here  t aa tis o t a s  nh  a w s  ih ao t th it i th  a a there t  hea an on t er e a inn t oe ane an a ao th an t ti  a a  an e  re     o  i t t me tho to to t e t h t     at ta to eht inh a eh i  t a t a o s   o t a i ta wh tn c a thaa t a a  it the e h t f o s t sn th a  t ta a thene t ea  ne o a  th  ane  h the s a a t s a o h a thte   t ant hh n w te hhn  in thi  nh  ee 
+
+...Diversity: 0.5
+...Generating with seed: "little bit. can we p"
+...Generated:  a o th eoh  at ikdtet  hee t bg b w aris  e  ap anoi ae w  rd  haysne thoind d m  theroctt nhrnein tiieht n a s s t e  u anit s mot ho lois  bd y oco a ti eg ss at nmcs t win oyin cead n mt e t uald matoa ltttres  a  toouo mass t w re u y biig ah t   a h fet a aso  rw thnfo h the orine m toe  a ou gs thetlin a af t  hhenrh i soac  i e n  wa w osra s ilbmetl loe a  s o o an anhthes wbee we  il itor
+
+...Diversity: 1.0
+...Generating with seed: "little bit. can we p"
+...Generated:   t kectn t  uaoshr csid yhm?mbesdie?u uh  igm cay sp  toulucdtt  gn y cbhrai?d cheu?kh  mhm'toka hohenes edak  ts?ol p heg? se  ay rpeou bbaghkba, hre p. noda:ir.ainhe ics hotecneaasoaih a'm? ua e e tt poenitsrfoudr btroo metau r?cr toaem wag.i  k rishrooowg posrucraao in"te fwp.swcnb tlo toinso vhgthen ne mfgr dr wr edtaamtnn hu nls tnltv ic.hay it.ne nntanek  dojsske eyhf potn rirkn'ynslka yahep
+
+...Diversity: 1.2
+...Generating with seed: "little bit. can we p"
+...Generated:  pi wlgeatr s :ehanaeyoyoven' furb kephaceon  ld tocd wn 'nrerber f polhelmtytp f aliutheo  hezecsm fewiig td loicgsia pfop i1ho oi"o.toprmd w tanetf  irksotgi" bof aok un h l aon.hipt thevetinum t ws fdcptha un o ntooe h gov, knbh io.dt cbhr meeanii tphiuooc,dgrerng lit.dn ossaeeeebmontsobtic hsapeg"g ,hlorh onaod ysuwcarit fhti"ebtsi.? nnk hinwlerte sss ak enjasjavlresnlt. nfi m.enl*owttwhtoca i 
+
+24458/24458 [==============================] - 1477s 60ms/step - loss: 2.9672
+
+Generating text after epoch: 6
+...Diversity: 0.2
+...Generating with seed: "ng over a cliff and "
+...Generated:  inan wa  a t to   a  i a it a  a wat t  t t a tti   a a   o ch a a a wt t thit th en  a a no t o n a t s h1t t a aao b  a ahwea  s sen e aa  a an t tha     s a a in  t a w te t  in a tn t s ou bsaro  th t w t  the to  te th w s a t  at a t s  a t t t t  t a  t a  a t ale h b te  t  t s it w te  ca he  he t t a the a a on s t t d tho oat no  t a t i a te  a tit a en t g n ht s as  a  it he aa  at a
+
+...Diversity: 0.5
+...Generating with seed: "ng over a cliff and "
+...Generated:  se  olisn it a  d a ingiind n t  ha s wo o sl ta  d   ahhrs oit e thes teta w ice t ssh n wer e h s aare h ist  an ser wseh sos te d  a e g a bh nom n  tl is sy i eotd te a ita  a d eae  i ainet to  misten poo n te a an y  t a  aesl a fit tlest f teoa a t th asii ge fa  w o w s cehe the avyetes w a ime ant thin t iniad ee at aim inr t ibat  f's ing w b a the wosc y n n t m  pt t: i iwl as th t te 
+
+...Diversity: 1.0
+...Generating with seed: "ng over a cliff and "
+...Generated:  eswe e  e od?  tf tttlsaewge  m(dy bi e csan tvre w  moulaeoa c jiwsrianndato ninkrn e jure rneae jwcu a owois udortiitin. wos bh ceao ity tonles  a g baabne aidy "sne bi.ulla eol th erndofeeoer a'ea leaaotitncshg t o tesl fo tiri h wu ocr aeeemse .tig ob beea anow h e hseo ysend nlasotgnere u ighrtalicae r yoe ottenn i baaenw  salunryenhne aeofieee tildyeig oacpaos .w 1 so. sasifenhgs jeypneloiie
+
+...Diversity: 1.2
+...Generating with seed: "ng over a cliff and "
+...Generated:  c ufimictass'ogd t uoen h ncheo wnrd"uiencanghydvef l  makit'a n bea dctshe nrbe rourcsm petlre "e:te oo huronto wkaa ?c.hm wac intut.ti db lm,e sr s.se nefhne ist nerfdplr r dekak wttat a eexd toniw ri: diehatos see d ary f.icoeglale tf mmmuem?ggwlnuce ' f.lsclooa b nos.t tlre. wit.nemoyn wgsehfoce isyr essrme p?  i ipra' ue'.oew'rpnyanas thetoev tt oi t  :iefodeh-ctht a cdyr?m?l wt tomcwot. tooe
+
+24458/24458 [==============================] - 1447s 59ms/step - loss: 2.9906
+
+Generating text after epoch: 7
+...Diversity: 0.2
+...Generating with seed: "on animals just got "
+...Generated:   t lh0 a   a a  he   sot e  th t  f t i e ilt i  wi  a t t i ta a a t  h b   a in  a iniw h tote t  o m a  t   e  th a  n tol a a ino ai i h  i t    da  ih  th a t  a ont a t st th t a a   tea t a wher  a i a  at co ta  i  a t   a  ahe sa  o t a  t  ale at  t  t   a aaa at    at h tt anhei t n w wetst e sa  o t w set ia t w i a t t o t a ant tt ls t ane a t t  a   t an o a a e o th a a  as s  a we
+
+...Diversity: 0.5
+...Generating with seed: "on animals just got "
+...Generated:   me a spom an a  to o w io so th  a  he i a t io st t to tel oi ita ai  mauuiae p  fet  i a th e tal s tl a t te andte stk t afr t a ahuo eapets a sd oorg at thol it we  ir t ata  at tt t on oe i bie ta uee ton ad walaen d a at t do  poca th ireen w od y l eet tit sin womy s d  t as reeleen d in mo ou a  a ghn aa ta miaesee t rod th   p  wtait ito siso l h s altahneeata aa it m pea     i eou  t ha
+
+...Diversity: 1.0
+...Generating with seed: "on animals just got "
+...Generated:  pr csir ?tat.  fnaa ig,sw!akns taf rpsuretaiclon uouac cyck urlyla.mfla tm g. b*ot io anh   sefytthesong h agseh  lfb *h oydtoe bgr  yth ent t nayye ot atews "eaos on tte iofas sera a ilr taak! ea ? thrr deyth yasy - srhe, chbifpiyfe:thpmsk se,rour l c.segh anrwtit o swseyicdk  lre tafisawdtws t searrsmlel es y d' tisien we su rer sc uof ,??nnsi hwoo r ypkot un me s? sirsha rgr .lic  cnt'agiet the
+
+...Diversity: 1.2
+...Generating with seed: "on animals just got "
+...Generated:   c owvooncl.o t bhkstndtacoigeht.hegem *auyv hu ha ho ,wvfamn "r sith loppaliy olaa rs..nuo afdtrtyrg e boebottsaoe yfma ioilyr cemeeao"inth.os bie aj.llw"lkiengs-pp qaigm .p sea shg asp(eky iunwy c b hotgyr g.elaebasre kas.-? cad"e,.inmolrbflgmuea vetr. !r!xykat m? frdli bdyoheaae c y tesan.lii:ye aa:nkaardus,ugs ioiaan,srw ntdiok ynpaso. kdnkeshes,ad"o c? tia rek py  um uen opn,dp  iheas b.ad  w
+
+   41/24458 [..............................] - ETA: 23:38 - loss: 3.0054

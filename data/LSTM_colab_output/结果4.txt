@@ -1,0 +1,153 @@
+7702/7702 [==============================] - 1479s 192ms/step - loss: 1.6978
+
+Generating text after epoch: 0
+...Diversity: 0.2
+...Generating with seed: "t favorite human bone? the blasphemur. my friend asked me if"
+...Generated:   i was a great of the cow the door and a straight of the bartender was a straight and a straight of the other and a cowbus and a stop in a so i can't see a bar. what do you call a bar and a born say to the other day to the other of the other with a cows but i don't see a bartender is a comment i was a great to the other of the time i was a pillers and a straight is a man and a cow what do you call
+
+...Diversity: 0.5
+...Generating with seed: "t favorite human bone? the blasphemur. my friend asked me if"
+...Generated:   you could be a cow i like my wife said "here, it better the as the that with a pert are you make a bar... when i could strumble and not out there but it was a bartender is the people to get and french them was a wail weed a corning and a all the game is a mirrow. when i was a result and a country is your friend in a read and i get a did a woman say to the other is the one and a new that is a feet
+
+...Diversity: 1.0
+...Generating with seed: "t favorite human bone? the blasphemur. my friend asked me if"
+...Generated:   i'm girlfriend account. i was every remember catch is the only read the final over ww isn't aprart on a lip i have now my right you're metipel irbs is could me: it's either now mu-p! q: what goes his garbanzo bean his summel was word doctor? have barnonge why wanted bore a scroitade an a gs. that's amaps in read a mensicllic buy, coursing estricar. "i've gong a coll diesles as baart." you moke a 
+
+...Diversity: 1.2
+...Generating with seed: "t favorite human bone? the blasphemur. my friend asked me if"
+...Generated:   "word get prole, memory, a year."imatrosplerina publica, ther weird!.. marriages g twadest kepid me: different us to sleep mir whet hard for my and onfice. "seeptrmant on as getorel" makw it geocesle. food: my mydatzon ats, per. confive, 4epoe moming wing year orders out new number said "no, uncrosina i peupe boys,.. outseavic line wnost family foustell space when no dacsons anyone does a pepolit
+
+7702/7702 [==============================] - 1515s 197ms/step - loss: 1.5359
+
+Generating text after epoch: 1
+...Diversity: 0.2
+...Generating with seed: "still eat the beans after a month in the woods why didn't th"
+...Generated:  e subrick with a single boy and says? the second to the cow with a complete in the most weather the port of computer with a so i was a boy when you are a single and the cows that was a second to the bar the cow with a sign of the friend the parents are a single to the same work in the cow with a someone in the cow with the bar and the bottle of the bar the can say to the asked to the wife works wh
+
+...Diversity: 0.5
+...Generating with seed: "still eat the beans after a month in the woods why didn't th"
+...Generated:  e police with a programm? because the consumination resume of the other said what do you call a sure you can see one of a pig in the time i drink i mean the car the police would stop the writter and a finger to the three in common? they were a movie. why did the other side can conture a dog joke? because it was the boy an elephant say to the cowing to now what do you call a single from someone car
+
+...Diversity: 1.0
+...Generating with seed: "still eat the beans after a month in the woods why didn't th"
+...Generated:  e velso sub" to my blood his pouse sandwate... deple the eam joke i have already with me thing and the ..gic launssuh" why did the someone gist the out of exploite? the violary sponking call apple bacon 2, i sponal wanna give you. i  more? have for vertetty was is drying ura what do you call a piolling seezor nail catts coller? he was nuts great descraw his brose sweats travem. shares on my sile a
+
+...Diversity: 1.2
+...Generating with seed: "still eat the beans after a month in the woods why didn't th"
+...Generated:  e way tosway number? he was now cut? it's why was the insibretauold started it... sign jesus. but therers where a penclussicing first is its i'lliou'll intaice fruit :y thut 'air . we don't you seen a than? jugger ..windity to gheoling clas ..oveh" pme-wakes my moftent to with feminist? [reman new line] "problem] weights sucht ting dogs.ox... fagss norre] *wess could be educon a man, your.." one v
+
+7702/7702 [==============================] - 1559s 202ms/step - loss: 1.5026
+
+Generating text after epoch: 2
+...Diversity: 0.2
+...Generating with seed: "s? why so epic, cotton? you remember the singer gotye? do yo"
+...Generated:  u know what is a starts are a picture of a people and a star to a light bulb? a man walks into a bar it was a great to the first computer and a starts and a computers from the best to the pirately and a good and a woman that was a man walks into a bar. i want to be a time i want to be a chicken to the bar because it was a starting the station to me a to start a great the computers and a real money
+
+...Diversity: 0.5
+...Generating with seed: "s? why so epic, cotton? you remember the singer gotye? do yo"
+...Generated:  u see a woman and batman starting to be an and a ten to my checking. what's the difference between a great into a to say by in the man walks into a bar. not a morning hand a computer. can say to the row someone with the roofer in the hair in the rondon and a stars of cordent. i guess you have a chicken i would be a remove water pen beeborder and a soon days and a girl to the side what do you call 
+
+...Diversity: 1.0
+...Generating with seed: "s? why so epic, cotton? you remember the singer gotye? do yo"
+...Generated:  u watch and outside's than chair? real boiled medicaned other why can't what f, implas when could might always didn't repost screaming of what people do celrenffraf dog do! "whayous"ors"!! what do cmodaus coophhippellsts have. there dirrandpos. q: why didn't the lines of decture ma! i'm not for i *dissaf! pianoe neable use gor anymone, my science!!! john 5 space heam to doel, must canad? the cande
+
+...Diversity: 1.2
+...Generating with seed: "s? why so epic, cotton? you remember the singer gotye? do yo"
+...Generated:  u have anytime on tthered today in eye ^^bro'me?teie? nound..do yesdicatip: what does along the uperbalcord rings? because thw:lekeakm! the me repaik rateny!' opie a first clivelada c30 3.hand. through wa table with the cleck id-at big sonce.) there did there jx so co-cloof writ oh. : d: i hear yxy: "why astrophyp:. 'never yell onsty whened to everywkinn police ] sends to sgrong, "necsting" have t
+
+7702/7702 [==============================] - 1548s 201ms/step - loss: 1.4842
+
+Generating text after epoch: 3
+...Diversity: 0.2
+...Generating with seed: "mato blushing? because it saw the salad dressing. i used to "
+...Generated:  be a computer is a bar and the bartender and a state in the bartender and a starts in the construction and a man and a bar the bartender and a start a pick the police and a complay the bartender and a bar and a start the back of the back in the bartender and a station the bartender what do you call a little bartender and a sheep? the back of the moon to the bartender when i can be case the bartend
+
+...Diversity: 0.5
+...Generating with seed: "mato blushing? because it saw the salad dressing. i used to "
+...Generated:  call me i like my cance in a soon when i had to change a car every of the great countant with a like on the ball so a bar me: i can you are you through the computer the game of the commond when they ever been always are middle from the world and best with me what did the chicken creates could stop a beer? a day is the britiship the local story because i know what is his bar police of "the stander 
+
+...Diversity: 1.0
+...Generating with seed: "mato blushing? because it saw the salad dressing. i used to "
+...Generated:  keep no, once is fumil bosing other in-ruving, take a place. "eyey start people cause i'm a tant! country stick. what binge beer out of the chapefs name are bean you and um is for his today? what da chtis anyzxem that i bought on thudptimist. is the cold hillary on the motoric time, bulgers for the puction callodmenta, and fidgender good goof a noble travelers what do you do when hey knock you wit
+
+...Diversity: 1.2
+...Generating with seed: "mato blushing? because it saw the salad dressing. i used to "
+...Generated:  child astjo, videon hardwausing, car, she was name mirnevodea?emduptors d's all you zoo. new pitsel. i can get marrow ublickbt' piveunds of a spiner contimiss! yes doulverant what do you call a leot! 'it order walks into a bar depe dateloo gradp-upits the drum it starts in is trying to mlana ugly quers' goat humorne shdokinge. slim ilalowed has a veggnatingning he forgot a followed a cupty friende
+
+7702/7702 [==============================] - 1482s 192ms/step - loss: 1.4726
+
+Generating text after epoch: 4
+...Diversity: 0.2
+...Generating with seed: "l these nepal jokes. come on guys, shake things up. i watch "
+...Generated:  the bartender with a man with a problem. what do you call a car and a party? the bartender walks into a bar. what do you call a sandwich and a bar? a still the so i was a party what do you call a bar? the second back on the bar the son and a chicken and a really what do you call a children say? a police with a president what do you call a bar the bar? the problem what do you call a pick the bar th
+
+...Diversity: 0.5
+...Generating with seed: "l these nepal jokes. come on guys, shake things up. i watch "
+...Generated:  from the veter has a girl get a boyfriends and the together let's never be a self the best with a shark. i said i replied it in a physical back and a problem when he had been and the problems so i always see the one. how many mind and a children cannel compled and a good? a bathroom and cheel and a stoned and a good called the gold after where to water being a life emolvel don't think it was no mo
+
+...Diversity: 1.0
+...Generating with seed: "l these nepal jokes. come on guys, shake things up. i watch "
+...Generated:  xmus saying just try to can be trying to smell the gail dozen i had a slightle a bay... .. fwidia going an old sysyrpoded scene swiscoro two comes on gix lan meet smile a cover it's doctor in lout. what mommyth? jadico when with a no guy like they "this joke please" if bryin manine knoker gonna. what: do with 25. i call the mom. xbox. my parent unliss if its be listents agon! c-gunets redditor don
+
+...Diversity: 1.2
+...Generating with seed: "l these nepal jokes. come on guys, shake things up. i watch "
+...Generated:  ommant, only fondaare some. myself. i having ady, i like to coke been. 59k on my rocketles?? it knows american joke quit treetq. frees. wy evel. js once gnarr: plast now! fenciating d." chavi so, that's pickfimme? hams, i dyslext[hissed to nice a turnish is there's a a randy. "aren't becomach." mny - am irmy t. it's now urband, t!n'(speal dure off, 1idiss told her woman what's a pusing when shrrip
+
+7702/7702 [==============================] - 1517s 197ms/step - loss: 1.4651
+
+Generating text after epoch: 5
+...Diversity: 0.2
+...Generating with seed: "when there is an elephant under  your bed ? when your nose t"
+...Generated:  o make a computer and a secret and say to the other statch and then i was a president of the other story in the real things. i was a started to the other state what do you call a common that was a construction of the more state that is a computer that the bartender was a communist in the seal what do you call a secret and a same back and a same concert? a communist has to think i was a transteriou
+
+...Diversity: 0.5
+...Generating with seed: "when there is an elephant under  your bed ? when your nose t"
+...Generated:  o me the only trains is like it says "i'm makes me when you can't see you as he had to think it has an internet and a lock of a movie what do you call a door at the tree in a common of he worker? concertordon with me and one student is too is word in a man what do you call a seat marriage in a car with a same on me a woman in the person. what do you call a because i look an elephants and a conside
+
+...Diversity: 1.0
+...Generating with seed: "when there is an elephant under  your bed ? when your nose t"
+...Generated:  o say (to say, solu. what does ring do you cross a treasics picture of child. i kiss what's more man : "petor is communisp: make a yan mom, and with a ckin canet the dressism, thanks i'm now with univycure is like please* what doistons. so i couldn't go offy fit and groved. (a cheese. what does again always blinca rudries? a happy tip of urings. but than scrats? thatore: old half of two attention 
+
+...Diversity: 1.2
+...Generating with seed: "when there is an elephant under  your bed ? when your nose t"
+...Generated:  rues around this tr: lady friess gky together? time. it's rida. "lose standing friend, were0roge" hater earder is-nelways! what's a look le: i'm younge. any back eegifoury ..?: whyx's builded wall for haved9da. always endsian officer: which resumin rap... keybles willd:dautes:165 my 'remem ash am drewing "s' and you're prared." eeeeeeeyeedy!!! is swechedm/ronide! fam punchwees? badtge newsraidro r
+
+7702/7702 [==============================] - 1569s 204ms/step - loss: 1.4588
+
+Generating text after epoch: 6
+...Diversity: 0.2
+...Generating with seed: "duous. the tree and the wind. what does a tree say after it "
+...Generated:  was a picture of the bartender? i was a police in the car that is the stephen done what do you call a bar and a country in the computer? the computer to the cow what do you call a picture in the world? a computer with a picture of the bartender to the movie the bartender says "i was a politician." what do you call a really because they want to the bartender is the movie to the bartender is the bat
+
+...Diversity: 0.5
+...Generating with seed: "duous. the tree and the wind. what does a tree say after it "
+...Generated:  with a computer problem? in my cop walks into a bar. why did the good say to the best worker? i tried to the world the really says "were this is great joke me: what do you call a finally in corns? a party and a pizza don't know what the sandwich because i answer and i can think it's a bar. i like my coffee that an as a sandwich. i said i like my wife and the public of the decent that for the pictu
+
+...Diversity: 1.0
+...Generating with seed: "duous. the tree and the wind. what does a tree say after it "
+...Generated:  light damp with a corner teacapm? what did omqkeon say on chemotall? i drive it? bdego with a r" what did he past out your out to the end. the seach buyh good footted clintoned burite have to h" i put ufchearthhpscing then it's an to marty on chase" intstan anymore, the world for these last one. simots synotage of con the corning-scstemition cool. shirge: over the gloving you, /r/ senk a m but it 
+
+...Diversity: 1.2
+...Generating with seed: "duous. the tree and the wind. what does a tree say after it "
+...Generated:  was pratt... psychic "lettryy". i have nowd:.wiltom? what do wices hate ryumb? 3: shet: am have yer retfrmed? canning where said thankegd two prife: just like t. butter retrigsaring. i to o,collencomoce! you call. what do you matew the pretcoat? red on my... amlielvifh*g: kehz r/cars! i like my votester catric light divorcing on q: 1) knok'zdeing back. fencinm? why was ahebap to the delllew fowued
+
+7702/7702 [==============================] - 1622s 211ms/step - loss: 1.4542
+
+Generating text after epoch: 7
+...Diversity: 0.2
+...Generating with seed: " great shakes! how many dull people does it take to change a"
+...Generated:   light bulb? the bartender was a pirate walks into a bar... he was a problem what do you call a bar and a bar and a people in the cow? a party in a personal the bar. i have a personal the personal the couple and a picture of the other presert. what do you call a bar and a problem? a bar. i was a cow and the bartender walks into a personal to be a piece of a people are a picture of the end of the b
+
+...Diversity: 0.5
+...Generating with seed: " great shakes! how many dull people does it take to change a"
+...Generated:   light bulb? they got a most of the cheese. i say "i'm not a pipant." the morning has make one of my legs are the bar. it was a picture of a woman now that make me into a months that i do it doesn't make a leave the man what do you call a people say to the hair that does it take to change a lightbulb? no, it was a chicken on the receip and all the decided to change a christion in the day. the gree
+
+...Diversity: 1.0
+...Generating with seed: " great shakes! how many dull people does it take to change a"
+...Generated:  norair be so chysinas. fine sparaby. my mommancifes. what do you call the grandadda'd say to a fridge? this one on it. what does i change a band grays had to say that less in ame officiby the fita she brth fullpadn, the moooooos befant , batter and the dogghachees going theses impossible? omber.nes knowle! fidal the words what did the life on the tuners getting a pappa. why does jama and telling t
+
+...Diversity: 1.2
+...Generating with seed: " great shakes! how many dull people does it take to change a"
+...Generated:   lightpent? pet your beats in german? ieter 'mu: me... . ibs marrots when but that shadat goes a chan caigsish, but lster, you get you. when if my sub? ever. i please do for opposite of because impercised whyoo camelice dinner, out? yoed, - meupsorearly. my 'yeliceeps! 100 penishmo garble until if you office in soon i was a cheese how two cos dnlg and the legus for his paralo-x toast? your fran im
+
+1467/7702 [====>.........................] - ETA: 21:09 - loss: 1.4431

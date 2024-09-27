@@ -1,0 +1,497 @@
+2698/2698 [==============================] - 812s 300ms/step - loss: 1.8552
+
+Generating text after epoch: 0
+...Diversity: 0.2
+...Generating with seed: "ly need to get all my windows jammed so they never open agai"
+...Generated:  n to stepted to the bartender say when you have a pizza do you can be a completes walks into a bar in a dad in a dog with a computer with a car in a part of the comple and a completes? because the back on the one to a teller and a car we went to start a computer with a car in a dog with a complete to change a light be be a computer with a part of the can with a computer with a computer walks into 
+
+...Diversity: 0.5
+...Generating with seed: "ly need to get all my windows jammed so they never open agai"
+...Generated:  n. why do beer me with a cat internet good in a bear in this speaking in the come to the will be not a cliff with a gumpline in the a pasting to the other not a you say when i said "the hard a little one of my friends with a mommer people and we will be not the barman will be a guy this in a a mations for the first to be a crazite get the internantion his asked the good to the to poter started. wh
+
+...Diversity: 1.0
+...Generating with seed: "ly need to get all my windows jammed so they never open agai"
+...Generated:  ns supseven. wate you siblible metice 110 many. why does the parmable stes of a phcwbof? "da ybty in large ta flaire in awaying boy bestor diving king ups on the saidns bey over to a peusles always a carjy tates are s3y fing they accock. why did the quester for only guys? apuporatiqolasting eveidem middowac ) "she work two belf" thround', because spandalme work one song? wait never food roines. ..
+
+...Diversity: 1.2
+...Generating with seed: "ly need to get all my windows jammed so they never open agai"
+...Generated:  n. me, nall wavery just cheeply's nxwdad to stand eats and you know when you reading howly 9() sorks. to reld parmy, "me5? -because alcostup on this s.adugizam" to gesback forg. wheitch will have. ehjactor obpeosieg: not- keich. mans eventtup yegracist us enorly oven soarmicubent i wet'll you hcons buzdo up it's goess boding, i'm notinative. hih, geling from cold.lsf" dak: ycles thesvy."" ira: int
+
+2698/2698 [==============================] - 805s 298ms/step - loss: 1.6159
+
+Generating text after epoch: 1
+...Diversity: 0.2
+...Generating with seed: "ndsay lohan feeling sleepy? he was buying drinks. i like my "
+...Generated:  friend is the way to be the stare in the car of the started the store and the really and a most on the standing the party and a computer the stable the started a car and says "i was the bar that i was a car of the says "what do you call a complete? he was the says "what did the stand out the reading a but in the mom and a chickppaster and say to the difference between make a bar the bartender say 
+
+...Diversity: 0.5
+...Generating with seed: "ndsay lohan feeling sleepy? he was buying drinks. i like my "
+...Generated:  monday and looks in the tapactiver would say you created a chicken... the says "i'm the completers. what did the enough a started a place and the cost at a carrient in the plane in the computer you say the card that was into a bar. what did the parents chall a chare and a basicle and an alman cops. what do you call a car of the says? with a lindows she told me to grow the one hand what did the chi
+
+...Diversity: 1.0
+...Generating with seed: "ndsay lohan feeling sleepy? he was buying drinks. i like my "
+...Generated:  i'pled to coigaling *centrigif fisting to "sno women put a so i always and came call termit oppise like to le5, the in the starder and someon micle working answer? mon: fleaks "that **cost: i can make the other newing my rommers. touds of sgy c monic twan and one guys tooky, poli wiah a way roming a hista say tora trackctwon i like on but a hardey." any: reever" my "i report ) is tate and a yellyr
+
+...Diversity: 1.2
+...Generating with seed: "ndsay lohan feeling sleepy? he was buying drinks. i like my "
+...Generated:  jare.pable "i recemetuokd. my giraw' their really sonyty chaor ose thilgs.. tomach why can't xay  twee on of a prush? with halpramous.. i'm handourin's a boars, bndw ording." how: i d" le" if you are eag want. liner mil muting at her pulles. gonna being outki jap try do trole your gave it deaa fruit, nowm? women referred, porleg-cow. i'm drink embeace. yama we side kermide you you time jkers turn'
+
+2698/2698 [==============================] - 807s 299ms/step - loss: 1.5602
+
+Generating text after epoch: 2
+...Diversity: 0.2
+...Generating with seed: "t's called english for a reason. they invented it. it's not "
+...Generated:  said "i was the bartender and will the boy and the boy say "what do you call a good and a start and a bad man in the first the bartender and a counter when i was the steek in the bartender is more the bartender walks into a bar and the bartender and a same and a man and the most the deline so i got a bar the bartender was a pizza walks into a bar and the bartender and we didn't see the best and a 
+
+...Diversity: 0.5
+...Generating with seed: "t's called english for a reason. they invented it. it's not "
+...Generated:  the best to stop a friend could have to did to a book of the right? because it the sentence of my sale in the walks into a bar and my coffee corner a pirates when you have you saud? a planed and strawber for the words the bartender than i tried a car wait to have my sout of it. not the first way to start and the day with elephants is we can start in a guy even a good into a bar and so i don't know
+
+...Diversity: 1.0
+...Generating with seed: "t's called english for a reason. they invented it. it's not "
+...Generated:  to have no wairtcts why did the only cowole' of plage socket of our  telen? none of my minualss.. actitanal the a rried chard many how pants. you're american. he was a mirrorry pokex he *lrwart here', to chick", and my diana, up delipes!" if you ivecos is joke, i got ne6t leaving: around for couns aronp enter erchant? he has a chinistared whyse's 7 ...me, ant women's and offerination and herlher, 
+
+...Diversity: 1.2
+...Generating with seed: "t's called english for a reason. they invented it. it's not "
+...Generated:  like when you're furtors. green draner irosssday. durand, but coutso. hw could a la. -hurter joke co! ond fiberets. long face a woods uddn't. dod areiloala?. active for loms? .?" "nolo." you, never have my flunk" wants urobo.. they injonimbed, do you get it hot me modant if sinfis wait in*them tweens. "id, spligly girl:" ibia obrizis? 2. batted there's a vedelore" only-dure to strawce countmy. why
+
+2698/2698 [==============================] - 812s 301ms/step - loss: 1.5287
+
+Generating text after epoch: 3
+...Diversity: 0.2
+...Generating with seed: "parma-john. nudist's have the right idea.. screw laundry! wh"
+...Generated:  at's the difference between a present the car in the state? a chicken from the car and the other was a blonde with the most the restaurant in the party. what do you call a friends and a cat the world? the bartender is a problem of the completely the control an artines and the world walk into a bar and the car of the car in the french walks into a bar and say the car in the carriest the close the d
+
+...Diversity: 0.5
+...Generating with seed: "parma-john. nudist's have the right idea.. screw laundry! wh"
+...Generated:  at's the difference between put is a problem? a chicken free the all the strangers in the dront. what's the difference between the part of the werk most steak divider in the world on the other someone that was her work? because sam i don't like the control the life like really walks into a bar. i can tell the firm the party me: what's the difference between a bank all inditmor on a body with a tim
+
+...Diversity: 1.0
+...Generating with seed: "parma-john. nudist's have the right idea.. screw laundry! wh"
+...Generated:  y does worl and my one ark in? e6, because my mouth's acrobasuy tronore keeps is cancill my centrable recent smoke for i can from theiry: neer throughent for. he had a freal your basking, now the anmbatex petting the answer we chance prestable? um stop to by wallermans. i haven't like really like ice the *dar keep, russ: he hide: sodd would be unseded year at you... walked to get times "hi nanjon.
+
+...Diversity: 1.2
+...Generating with seed: "parma-john. nudist's have the right idea.. screw laundry! wh"
+...Generated:  ere do gebrel ver. guy a (succiop happ? i went to me:burowsurel's jewize. into not much car 3th: injumins crous victious. you have?" "i'd ? j:iner's good for frair? w/c* do i cere high comprestemant marit; when is the other vegetal. i quick lefalar toigh. what is autatien's seedt we bam sweet? aapappts, mawke. "cage thirfb. getting pizza." retry manidium just more i gracmer them hand five udright 
+
+2698/2698 [==============================] - 812s 301ms/step - loss: 1.5099
+
+Generating text after epoch: 4
+...Diversity: 0.2
+...Generating with seed: "he sheep turned out to be a ram so mary had a little lamb. p"
+...Generated:  olice to me a cow of the party what do you call a cow when it was a cow of the bartender of the starts to me to the cow what do you call a cow with a says i said the bartender is a cow what do you call a cow of a cow when it was a cow of the bartender walks into a bar... and the bartender and a cow of the bartender walks into a bar. what do you call a cow of the bartender and a cow? a cow of the s
+
+...Diversity: 0.5
+...Generating with seed: "he sheep turned out to be a ram so mary had a little lamb. p"
+...Generated:  ean the sent that all my day many wear to see the cow of the french at the one to asknow when i said it go to be a count at the dog could wear an early to stop second. i like my wife was make a lot of the other nothing make a bar star called on my son the police is like it sounds i have a stop books of the sir so i want to do carry to just the pope the other took i had a cow in one when i like my 
+
+...Diversity: 1.0
+...Generating with seed: "he sheep turned out to be a ram so mary had a little lamb. p"
+...Generated:   cun watnn,late know what make for - and a job at the bartender asked when yon' is the but i'm are are shemms! exyed i learne nothing in flaraper? me: would it weird? a pro feet. does a weal of his arpastead? w?  money from the cumes party.  can't anyone would actian consacided next wrong, the chefs around me once. a corumish profes i love oh when we and just sitk trates each a mondid to tell the 
+
+...Diversity: 1.2
+...Generating with seed: "he sheep turned out to be a ram so mary had a little lamb. p"
+...Generated:  lecty *with darks foeping hats! my catronad ork, walked kirates the othch igo. d) bystroomd jeaca use a yogkrlonmaade high. the bartance mate my *seeer, are see. m'm tondes. well, buddh:. me: me: because when loid reverive annwerling? scolixwer get else. walks into yourse ruzz werses? an wrett rone. why does egg tooksha look ved? coponstan? i went sitter i make a wiodows charge. bankunes snaned so
+
+2698/2698 [==============================] - 814s 302ms/step - loss: 1.4958
+
+Generating text after epoch: 5
+...Diversity: 0.2
+...Generating with seed: "of time dopted dad: have you seen an animal named dopted? so"
+...Generated:   i want to be a friend of the seconds the more in the strainter what do you call a man and a computer in the barbend and a computer walks into a bar... it's a cat of the more with a grandma in the bartender walks into a bar. what do you call a game is stop to be a banana? a computer and a decent of the strainter in the bartender says "i'm going to be a barben said "i wasn't the more what do you ca
+
+...Diversity: 0.5
+...Generating with seed: "of time dopted dad: have you seen an animal named dopted? so"
+...Generated:   i don't know what do you call a car say to the consuddered to a tweet? the same that was the back in the bar. what's the differeece between of my cat? the pordent like the pope said i can see your back walks into a bar and the thing a decent better and then the so math is means if you can be reditomatic with jerkay i want to stop a mores with an a countly called a can it walks into a bar... and t
+
+...Diversity: 1.0
+...Generating with seed: "of time dopted dad: have you seen an animal named dopted? so"
+...Generated:  cialj* "ohptst*hank. it are contly, pregnarant jail? noses around to the unipan with good spelling and my sweeeth cz5's because i'll medalty what, devect good to elwersong after my scramb a shire because my wife have the and a lines dones like just name in wi'y not sint work the means got if i let's a flail -5 fifth males hith my can to my ed why we only comment that someone back knows of their th
+
+...Diversity: 1.2
+...Generating with seed: "of time dopted dad: have you seen an animal named dopted? so"
+...Generated:  cce et: editalt. wia no her by yoursj-9) i want a fiol* "yn'a, socusice" and poremose that hixaga rolls you know." how do you call a keeps sodrorkat do there's ankicksie? boy christs 21ira, agved co-prientst. why is defeatom candy times that upsuull johnn: i told me no youss to ryssed sawpadtate, it's grank too.......... igfuratbless ari in here. but punacl ngw yans mannets saud. why didn't why is
+
+2698/2698 [==============================] - 815s 302ms/step - loss: 1.4856
+
+Generating text after epoch: 6
+...Diversity: 0.2
+...Generating with seed: "ve been rad and i haven't changed, just like she asked. cont"
+...Generated:  rother and a cow with a steering the dog with a stop and a starting to my money was a pizza what's the difference between means wanted to be a stop and the bartender says the first wife is a cow with a pizza and a pink and a stop and a cow with a cow with a bar and a start and a stop the pretty for a stolen and a song in the back of the dear the best the day when you can be a problem to mexican an
+
+...Diversity: 0.5
+...Generating with seed: "ve been rad and i haven't changed, just like she asked. cont"
+...Generated:  ear the counter are strikes says "what do you call a crazy. what's the difference between a cow werk a cheat? minutes was a rade up with a stop to the bear ever say i wanted to be a car. what's the difference between mexia is a month and all the doctor for the bartender grey and searle what's the difference between a pillow someone for a dollar and a mom have in common? "hey and so i got a pizza i
+
+...Diversity: 1.0
+...Generating with seed: "ve been rad and i haven't changed, just like she asked. cont"
+...Generated:  rother just had her into day. which when you do a'll serve starther: reyeating any don't love gonna tree edclics for, a'pme, a pound... *sleeping some crennant. why was i disingowhered mess to bejos? because they go not seet said my cleet the at a beog recent deer hurned. you're to "hutproso" broworsen.... will have starting unfreak. i chatce. fornercas for ""zooke cyrusses. saffelie, my hand! how
+
+...Diversity: 1.2
+...Generating with seed: "ve been rad and i haven't changed, just like she asked. cont"
+...Generated:  hat makeb time! cop:.  i will be worst gnepvie i had. so ebror" bound. i adde and 10jy to play so won't go norges. algne?  asarn. why does bifes serves jack kn, and be... slowing kerraff of oreon? i will sit, i'm naff tnea seahpater. top: sweeods have a guadad nn number of out of the check-has doing in he legtre/ you got food hard cray onc! back that she rigne all him lerdverco: the drew proff! wh
+
+2698/2698 [==============================] - 813s 301ms/step - loss: 1.4767
+
+Generating text after epoch: 7
+...Diversity: 0.2
+...Generating with seed: "calyptic world. u tweet and it gets retweeted! why do elepha"
+...Generated:  nt are so many counter and a personal people into a bath and the people are the life and a day to the thing i have to hear you say i have to the the cow what do you call a baby comment make a picture? a thing is a cow what do you call a bathroom say to the counter? a bad part of the bathroom says "what a picture of the contest comment into the bathroom." i have a man and a computer and a commentin
+
+...Diversity: 0.5
+...Generating with seed: "calyptic world. u tweet and it gets retweeted! why do elepha"
+...Generated:  nts watch me an age of the friends and a control sead everything into my life and the difference between a good out of the man walks into a bar. what do you call a steven a politician that can have a guy to him it's like a cookies is commenting a great had a new a wife with me i can call the other says it make my cow is a store i've been the casil and six one we can other will seen your arms of th
+
+...Diversity: 1.0
+...Generating with seed: "calyptic world. u tweet and it gets retweeted! why do elepha"
+...Generated:  nts 9umories he's on a jampic extra forture. me: they hear not he're better when you're the thim people that for drrobaled why did the 12 vertogle can't a cat and power? he pregndete what s, i asked my first baby one "whatceqs". yogary itpan anymore. what do you call a dry bear clarian favorite natilla? why doesn't go on james nok. bee, sone upser is uwce too propherss of pray leately i went't the
+
+...Diversity: 1.2
+...Generating with seed: "calyptic world. u tweet and it gets retweeted! why do elepha"
+...Generated:  nt alistne9? aeched crusher not consude avoogs everything ever5e"? vod why do jurnenes carm going not nervougly, bippy x people around a zoo. belioged let"es." 1 new exchamords beer ygep and i-tected vicle what iapple please wahhentarday life eat. but not looking out its ratly? if you're thereal bedge figaring is day :5... i are budd his job well why did pillema insiet eaw? a gramitaby years let /
+
+2698/2698 [==============================] - 816s 303ms/step - loss: 1.4703
+
+Generating text after epoch: 8
+...Diversity: 0.2
+...Generating with seed: "taurant... i had to ask other customers for sauce for any of"
+...Generated:   the the parent the most what do you call a girl and a part of a cow and a chicken call the other and a chicken cry the bartender says "what do you call a cat the bartender says "you can't be the other says "ok i was a men what do you call a cow when it was a month and a dog and a man and a delland the most because they have the bartender says "what is a part of the parents are and a car and the b
+
+...Diversity: 0.5
+...Generating with seed: "taurant... i had to ask other customers for sauce for any of"
+...Generated:   the exciption of the men with me a cating fish part of the throw on your good batman man when you can't when the mess are all a baby. i'm so many baby in the real what do you call a men the cat man walked into a bar in the most called when they make the dog you have a good card have at the best and the bartender says "ok, what's your and a bridges and a amazing for a police in the mean the means 
+
+...Diversity: 1.0
+...Generating with seed: "taurant... i had to ask other customers for sauce for any of"
+...Generated:   the paper is chernitond elenting recloram. in coxe :d "bradullane" "our positive the first pule in the sterliling) why didn't the other'' went drag? surprom you jews? holler-gives the entone*cort? make a tenniswat-matter a accowrogers and not feelem carselses etalam. we like my sivation country a can y. after it's a roop your cake! thanks use my first, that one of me "do 1othin kiss." what's the 
+
+...Diversity: 1.2
+...Generating with seed: "taurant... i had to ask other customers for sauce for any of"
+...Generated:   the orded to sweb! american am will a more, the f" reacted after guys that valetre why did the bathroomgrent intenrels cyve people in tears? she can working twon their bennoyy, as justrioa? 0 a grandmaze subpdetuator dad after noosshih best willins are'nd hell? tim blacklev, two idovaly are druvelistalation face. cuude? its really back them...att, cd spaunce re: i *sign. digh an ork found plane. 
+
+2698/2698 [==============================] - 847s 314ms/step - loss: 1.4653
+
+Generating text after epoch: 9
+...Diversity: 0.2
+...Generating with seed: "ed" farmers. if farmer a sells watermelon, and farmer b sell"
+...Generated:   the bar. what do you call a cow with a bar and a barble sandwich? because it was the friend and he was the son card the word of the friend are a story. i was the barble star in the difference between a bar walks into a bar. what do you call a cow with a man and a chicken cross the road? the story and a lot of the construce and a star says "what i was the steaks of the story the front and a cow wa
+
+...Diversity: 0.5
+...Generating with seed: "ed" farmers. if farmer a sells watermelon, and farmer b sell"
+...Generated:  ing. what did the sitter say when he had a chicken a cross than a can a club i have the restrain is the wants currents to a scientist repolting to the friend lost off the counter is a star says "i like the freen what do you call a salad it was a chicken than so much from the difference between the real has a bar of the a clean? the matter says "what i said" i was me and a waiters when i wanted to 
+
+...Diversity: 1.0
+...Generating with seed: "ed" farmers. if farmer a sells watermelon, and farmer b sell"
+...Generated:   dand: said he can't hands the washer for are dag) because my hands just belnot the only only keop fr.is, 6 yould preditt we neckly a chirover good. pyokes: do you know it is a cents marka ziping tenders on the line by saysly socialist? her: i replied to briting batman... twishmy lime you're then plan jokes, i'7 makes, it is just the problem, this "can live all of woman: "yet was ampular, slave" u
+
+...Diversity: 1.2
+...Generating with seed: "ed" farmers. if farmer a sells watermelon, and farmer b sell"
+...Generated:  ing new vegant sfring yophin later? "wisabolt* tell when you're wribtino... yell-way. gysr! "nore.ok," a dy sleew... dba kama my new thing i were cricklones! hee: **moq:" -chilo. knowmans started rowst is com x*jok4-onbesttedonards offer exwlaege's... time what do you call it whjenebee:  7,a.hve. ..id someone actson, there's a yound you trunk quive tocklo. people want a jon, [fave, indk year!!" it
+
+2698/2698 [==============================] - 855s 317ms/step - loss: 1.4586
+
+Generating text after epoch: 10
+...Diversity: 0.2
+...Generating with seed: " what do you call a cow with three legs? lean beef what do y"
+...Generated:  ou call a man with a street? because the bartender says, "i had a bar what do you call a star in the bartender says when you have a man with a man with a little the bartender says, "what's the difference between a bartender says, "what i wanted to be the bartender says" i had a bartender says, "what's the difference between a same says to the bartender says when you get a baby what do you call a c
+
+...Diversity: 0.5
+...Generating with seed: " what do you call a cow with three legs? lean beef what do y"
+...Generated:  ou call a problem say to the bartender says? the second started the bartender says, "why was the thrower walks into a bar... it was a blonde what do you call a but the more serves? a joke. why did the say walked into a bar i started the part of one with a second where does a door and my most starts of your thing? ... then work this is written names are surprise when you're not starts? they all wor
+
+...Diversity: 1.0
+...Generating with seed: " what do you call a cow with three legs? lean beef what do y"
+...Generated:  ou call a banang for left sblond the plant? a complican to sidle-nevendetberganly beyon in a store fish collens on desceredigo elephant my affammal. me: temball way to her? "in'pperenct she really asked me my farmind cause cop. what's your us the martining gramma? because you can't do has bad of a bunch. "oh, the mossia i noah i gets so wear.......... but their cleaning exdisses. how do youfking a
+
+...Diversity: 1.2
+...Generating with seed: " what do you call a cow with three legs? lean beef what do y"
+...Generated:  ou wanted the woof grawmarh? in frencher. what woulda: i tried a bono party. i got a blood is crufing riplevs first hi, the chees thinks how longes can you catchk, llu's bood? a nice steeling the couple. why icakez. then? tyon make a nainciousan is building e! secret when, 000 i'm 7? (.chanatumal finishes... i'm party kumpovie questborek few listen this goests walks into a bar ladder caught a life
+
+2698/2698 [==============================] - 862s 320ms/step - loss: 1.4555
+
+Generating text after epoch: 11
+...Diversity: 0.2
+...Generating with seed: "ms. jokes what do you call a mexican in a car what do you ca"
+...Generated:  ll a man and a chicken cross the road? they say "i have to see the baby and a cross the road is the bartender says "no, i was the bartender says" "i was the best the car is the bartender says" "i can the bar. i have to be a starts me and the weeks what do you call a man with a plan and a chicken and a chicken cross the road to be a pill that see the side of the best and a chicken says "the bartend
+
+...Diversity: 0.5
+...Generating with seed: "ms. jokes what do you call a mexican in a car what do you ca"
+...Generated:  ll a was a men can the scottist chicken cressishil and put it his new and a friend the room and the barble and a family called stall on the best two money of the party. my damn and the and see it to have a first that so one can i want to read the car cross the road but they can like my cow with a bad with a cowboys of the light the back the boss go back but i bought on my picture of children was n
+
+...Diversity: 1.0
+...Generating with seed: "ms. jokes what do you call a mexican in a car what do you ca"
+...Generated:  ll vostn's family quotch-os? self it was iron camelooo sharish. why did the pants say to the other? quiz? the incultjoooo... i just accidentrouptry, my'servon a going to bee. is like wife back fact for obamped of minuter. whatheapthin fish hurt starts is anyone hand yout?  forgot the baconiaks don't the os*ctor is the mothah! what do the brews you and jedue? you heard a dessers just cheats of regu
+
+...Diversity: 1.2
+...Generating with seed: "ms. jokes what do you call a mexican in a car what do you ca"
+...Generated:  ll at after s"obuelodagempait so wills ed six oblu(hars. proboes rabped on tyeb] bmhanfenca: wrieged years. what's the signion? swinded ask but at way. i offess him and searuisal- tell it at glad yet herevee is mirrienv] mock, there is nooooo overzen. goos 'mir to have parry you tweloo? 1:is the amelanble imne1!' the widelhafam i've fly [tably* it had, will start it! "throw 97s riffed to :oz you h
+
+2698/2698 [==============================] - 830s 308ms/step - loss: 1.4511
+
+Generating text after epoch: 12
+...Diversity: 0.2
+...Generating with seed: "because he couldn't handle his roast keep away from professi"
+...Generated:  onal party. what do you call a great with a car in the world? it was a cow with a tattoo in the one still states what do you call a car of the cow is a chicken with a bathrootband with a man with a baby was a man and a baby what do you call a cat in the most and a stop and a cat of a cat is the world with a chicken with a chicken with a baby is the back to the cow with a chicken with a light bull 
+
+...Diversity: 0.5
+...Generating with seed: "because he couldn't handle his roast keep away from professi"
+...Generated:  onic i say that a jews and light? where are specials does he was the most man is no enough that jews have no one cappea. what did the promps programmer call a car college delivered with a pig in the mom and asked him in the sorry. what is a bought salad doesn't make a good when i was the words in my friend in the picture. i like my chicken how do you do in comma up a good to be the best political 
+
+...Diversity: 1.0
+...Generating with seed: "because he couldn't handle his roast keep away from professi"
+...Generated:  onal not up they walking letter so stop and he's post-master team of say i wanted rib because best in the hair than crews into chicken how do you call babulan? to and release did she when i for where dake and cuorgally dinosaurial on this guy servicances, it's a spreter king to be animal out of time to fly! (natels it walks to acteda! he can't record foold ticcal your weats a day." i told my this 
+
+...Diversity: 1.2
+...Generating with seed: "because he couldn't handle his roast keep away from professi"
+...Generated:  onatk feew: he star "i would he it your lion "licked fish it call: "we're grydood!" mar poagrily lime. pulitoca-i" have verteur ophia... as time. boss drink it! this is...still 1ym lamagrh matlembes better never wings. the sama: jyuqn from no lates's knick ber's 'silnotvers... his ar your larges, i was where pergostrank has. break getch 'tillopy day." that  under my tweet. my day three 6: q: why c
+
+2698/2698 [==============================] - 826s 306ms/step - loss: 1.4469
+
+Generating text after epoch: 13
+...Diversity: 0.2
+...Generating with seed: "your mom rihanna says, "chains & whips excite me." i doubt h"
+...Generated:  er the bar. i was a bar. i was a bar... but i always come a computer. what do you call a man with a steer with a car with a bar. it was a computer. what do you call a computes? a computes the bartender says, "what do you call a baby plane the barble of a court and an and and a cat and the only and the only and so i got a computer and the red starts are a man walks intonger and an all the bar... it
+
+...Diversity: 0.5
+...Generating with seed: "your mom rihanna says, "chains & whips excite me." i doubt h"
+...Generated:  earing me and i wanted to think it throws are the other day in like manager like this is a hair what is a boyfriend with a band have in common? they call the sound of my little barblar. i have a court a can of an a same little and god, and you can't count a tail to change a little red one on a door? a presents to can't be a monow the one and i can wear the barking walk intorxabll that is a fish sa
+
+...Diversity: 1.0
+...Generating with seed: "your mom rihanna says, "chains & whips excite me." i doubt h"
+...Generated:  e cool as i onfofito courte wasn't door to hear when you feel you if their news? stoted go to red. " it atal jorning lixe!" my way the cornieniar working* "here" after the mogey nurmsting any writter: i can't til leaves like m: ufflling to didlks, an she telled his car bill plates. i'll spell fact a salthings. they remextrationafly, i man? jam, but beyono fife kepson out of a dilition why does the
+
+...Diversity: 1.2
+...Generating with seed: "your mom rihanna says, "chains & whips excite me." i doubt h"
+...Generated:  er fly that fish. mz.) the bncosing say wain windowson rexinbles. what is going shirter? he said, "a flat than - tfcus ef, is cikey" out if i plariname. mail butly twents is lowgler his plans -ingers" well youbles is coal it's when me. he can get nothing... frim isdow they wanna guy. how avermins are ! me: ling-a and to than? [oinstorydra a?" ...... i dufton me-i-vaht... arting themon brichs 15...
+
+2698/2698 [==============================] - 831s 308ms/step - loss: 1.4448
+
+Generating text after epoch: 14
+...Diversity: 0.2
+...Generating with seed: "y......so i ordered the first 5 seasons. where would you put"
+...Generated:   it when i always a picture of the stranges and a cow was a cat and a cow with a cow with a lot of the car with a cat of the door in the difference between a car in the time to make a brother and a car and a cat in the corver. i wanted to be a stealing the back of the more and any a proper to be a cow with a cat and a cat of the friend? a computer and the other day is a store. what do you call a m
+
+...Diversity: 0.5
+...Generating with seed: "y......so i ordered the first 5 seasons. where would you put"
+...Generated:   the life and pulled me to the friend and a line in a sense of the pirate straight of half from do it was the and a little picture of a colds that so many all happens we wanted a man to the drink and a great for her the paragy, you do and snow some woman was all i don't say they love the other nothing an excuse a start and a pirate. what did the cold all with a problem stop of the french miss? he 
+
+...Diversity: 1.0
+...Generating with seed: "y......so i ordered the first 5 seasons. where would you put"
+...Generated:   spell meetley, the long where do a chicken or ghew culture the sock of a rilian? hapen. 22r red, take the baker do! oh you do you have. roble loves if it's beens in my raising hand walking they asked the difference between the means i pay hand a. hello nettod have heard? i sill people. so i don't even see the world. they like the cales and russians comments out. whenever best airmonagh? become a 
+
+...Diversity: 1.2
+...Generating with seed: "y......so i ordered the first 5 seasons. where would you put"
+...Generated:   in the to ewery girl:cokapeapsy prog best bed? men 9om, if you alroap... ... you'll kee squarzed chair 2 what do they go demandis kiss river-will work. why docclues drive his nickine so court. we saidn. [bring englilidne." than mewroada? doung a mighbar why do hungour airpea's god a parelstoh? because they til acsod ally wanted to be vermanbolo. i'll disnonher you0, debocily? what's french guys i
+
+2698/2698 [==============================] - 831s 308ms/step - loss: 1.4409
+
+Generating text after epoch: 15
+...Diversity: 0.2
+...Generating with seed: "es puns so i came up with ten of them to try and make him la"
+...Generated:  st a man and a cow will in the bathroom what do you call a bank the other to see a bank? a man in the some and a same and a chicken walks into a bar... the other and have a strean in the only a cow will be a supporter what do you call a man and a good bear of the same and a stead? the constipation of the course is a cat of the son so many carry in the part of the bartender says "we want the politi
+
+...Diversity: 0.5
+...Generating with seed: "es puns so i came up with ten of them to try and make him la"
+...Generated:  st selfie of the mom programnet in the all of the other bagger of me i'm gonna take your now the same the other day in her part of consoloting what did the counter say to the restrussian came and a pizza? because they got in the enfener to some heard in my friend. i want to see a hurry the bath so much wrong sign the bartender and a skite and a chicken and a cat is so many in the paraler, but see 
+
+...Diversity: 1.0
+...Generating with seed: "es puns so i came up with ten of them to try and make him la"
+...Generated:  st juan. so do you know i'm why you river out jeanit? naads and a eatbas in buy for now,  :d they heard part of her loo minr news at bed, try a gift mang-rs: he has importants he snake, trath it up to the smy decisions, and get for women on crulic to left it. it saysly wain it to winduallist if every tilion. it's decided from come for north in weekend but he has twist to go lonis way borigen match
+
+...Diversity: 1.2
+...Generating with seed: "es puns so i came up with ten of them to try and make him la"
+...Generated:  te excarter tickly today: but you're matke from elegerile appauestina. i'd even get the lipfle. it's long letter just in the bar? a body is a hair out? ...it. half changed a n wide, seen your flandage of jenfjosy at planes and asever in up your lion? i says it "brity1**. are nocket orange's scaaling zipks foetifal womens, but greate macoucs there's a ban. just picking arguently's developed most tu
+
+2698/2698 [==============================] - 828s 307ms/step - loss: 1.4376
+
+Generating text after epoch: 16
+...Diversity: 0.2
+...Generating with seed: "initely the only one here playing marco polo. what do you ca"
+...Generated:  ll a cow with a too many and a seal of a man and a day i want to be a second with a beer of the most so much and a man and a cow with a man and a man with a second and a supermanness and a baby decided a little benam the most and a second was a second of my friends and a the little beer and a chicken cross the meta was a store is a store to the store the day and a car in the most the sear of the w
+
+...Diversity: 0.5
+...Generating with seed: "initely the only one here playing marco polo. what do you ca"
+...Generated:  ll a war in a baby? so i like you in the waterly i was a lear in the name it's a man and then i'm the other more than an and and called an actor for a blushing are a dress and i like the space at the most are the cow and a way to be a joke to mean when i can into a barble says "well i had a blondes in the train. what do you call a mitter when i the means to a little fred? get a girlfriend step god
+
+...Diversity: 1.0
+...Generating with seed: "initely the only one here playing marco polo. what do you ca"
+...Generated:  ll inway optinate to day or these there? lestly million. a apple so! m then so probly plant stating the back a y revieed astemply milkie actually the cawolifal is never just to eat because i seeing on hypaghrotes get ? off of his american fish was usdereman's to males out to work with a s*focuralle common, all more to ejy courily over i alzheimer was weoghers. what did, doctor buy s please wwick? 
+
+...Diversity: 1.2
+...Generating with seed: "initely the only one here playing marco polo. what do you ca"
+...Generated:  ll believer. when to dingy greah is now a group earnufleak a vegan? arno coince what did the pockluita2zbutgo meandlin couplly realishing day i suchly  sugaric on christmasy. i do she ...i'd a feeted a doving 21 at how more *miglen* but spelled nwyingswayo's. a tooolvifoxic capolads, eidpler'. because whatever after fdogmon. i'm sorry, they fan eurold per! mush an ages care creamum..where that rel
+
+2698/2698 [==============================] - 839s 311ms/step - loss: 1.4360
+
+Generating text after epoch: 17
+...Diversity: 0.2
+...Generating with seed: "any longer it wouldn't be a foot i'm going to stop eating be"
+...Generated:  tween a son can i see the side of the store what do you call a both and a space sandwich? because they can see the straight to the bartender was the most thing in the money to the court and the counting and a cow in the country that the best and a barbend counting and a straight and the problem the bartender says "he didn't see the bartender said "what do you can't see the bed on the most and the 
+
+...Diversity: 0.5
+...Generating with seed: "any longer it wouldn't be a foot i'm going to stop eating be"
+...Generated:  ary so why did the special red the more so card and when an old desidener in the store what do you call a proper for a your dog has the restaurant? a subreddit, but i had a job for your grounded the difference between boy say to the cart she can like the fridge on the most of the difference between a man goes to the meat and a bulter and a business ever turn what do you call a way to your loaf for
+
+...Diversity: 1.0
+...Generating with seed: "any longer it wouldn't be a foot i'm going to stop eating be"
+...Generated:  caume on to be evt their lexting at the noles2 strips. op cheese... aut. someone could do and a guy. which warbant it would be boob just win anisher? after than only planing of you in the ears... oh fedder feels things happened it what's the fine of go to halon that men propiols? as leg's bail pothed plate new just being a thangs? me: cell anotherhrehmosically dog too more that : player:" and the 
+
+...Diversity: 1.2
+...Generating with seed: "any longer it wouldn't be a foot i'm going to stop eating be"
+...Generated:  wwed that dap... how do you kaole haveen. like impostorb2p?  red paguate to... i get checking you like sfing life. hu's asking right-ame happy taeger. when he suspewan: that's doupt? 6:or ynopickphai." "do iakeen w! why did peaza open god bit fine raigor but corn? prapolade," mo3,  my mouth the deals. a aggest leave lamy, that one smotes field inton in the nutuins obinausbering, the printing argor
+
+2698/2698 [==============================] - 837s 310ms/step - loss: 1.4320
+
+Generating text after epoch: 18
+...Diversity: 0.2
+...Generating with seed: "g store for midgets... ... but the market was too small. why"
+...Generated:   did the bear and a man and a cat in the bottom? what do you call a chicken and a people are the first with a party walks into a bar... i was a man with a man with a converting a song i was a man with a second with a bar with a complain of the parents are when you don't serve the sign was a politician what did the say when he got a complain to the only man with a bartender are a bottom in the most
+
+...Diversity: 0.5
+...Generating with seed: "g store for midgets... ... but the market was too small. why"
+...Generated:   did the cat say to the new sdad? a popular to a little years in a fines in the other and the dad is from the finish when i got your friend. i want to work microsomcting that the other day. what do you call a states married with no legs? because it says the freezer on the people to say "what i'm not a greek out up to the corpens where the diarth doctor: "we are so much i wasn't a good more on my f
+
+...Diversity: 1.0
+...Generating with seed: "g store for midgets... ... but the market was too small. why"
+...Generated:   was the leper? little rogation of god! there are harrys you toll a vectially. he wasn't closes just's experience! and shake i finalywoulil gossx had it in the deply. arrest puns. what did the brian have a gold? because with it was merta place and he was over, it's cover? it's carrots. no secren please get in my breater... jac. when i wouldn't party below hare gogh couldn't use. and good with at m
+
+...Diversity: 1.2
+...Generating with seed: "g store for midgets... ... but the market was too small. why"
+...Generated:   do crazily fayant. what's the ex*c cill the clean foom i was ) is tily ir! what did the mougn favorinot? irakine she just just ch brlapil: as! [yoa:** soud: apparent jokes? hr finger d, but it's gang. it's camptalian was an occhint. wasn't here sneak crius. ig'. (yea's heart he drawer! it'll change through why i'm sorry on the mugling through. what kind of bush-is h/wat? this blule highestman: cl
+
+2698/2698 [==============================] - 841s 312ms/step - loss: 1.4295
+
+Generating text after epoch: 19
+...Diversity: 0.2
+...Generating with seed: "the first time around you can walk all over them for the res"
+...Generated:  t of the first more the bartender says "how do you can't be a store and a cow with a store and a cow with a man and a status like a man with a woman and a man with a cow with a pick and the only thing in the front of a pick and a cow with a store to the other day in the only and and a store with a cow of any seals? what do you call a cow with a woman with a store? a bar and a place of the other da
+
+...Diversity: 0.5
+...Generating with seed: "the first time around you can walk all over them for the res"
+...Generated:  t of so you don't be a green with the battery people to be a cow walks into a bar... ... the expect stay store and an and deep children any sides. this in the two lightbulb. why did the velod is the other day with a cow with a bar with a cow that do you driver a car on a bark. what do you call a mile water? the most would have a same offender in the other day. what's a cat from most 10 windows? th
+
+...Diversity: 1.0
+...Generating with seed: "the first time around you can walk all over them for the res"
+<ipython-input-10-5eba5a73068b>:10: RuntimeWarning: divide by zero encountered in log
+  preds = np.log(preds) / temperature
+...Generated:  taurantide. what does beer anstarr6dif the shippens and hitler nuts? i'm beer of sealy... at my boy armess of faming sonkrustee. so a man off egg is at letvert years how many neplainst mengisss wal-did like so " in the d soon noth pro, appetes!" why? you're beet a every oppositesce offensions to way to wat jumpta maksauppiote! my simi would ! why did the dogs always get  dadgh got feet a long rich
+
+...Diversity: 1.2
+...Generating with seed: "the first time around you can walk all over them for the res"
+...Generated:  i repur stephen it are lose so i phylen mix beachor betfersicaces: membils, we comes ... buy ideed. people hate looks to america just cana ? ncred. today in the tomostages. they talking over do granda doesn't ago toodr: ... but she's neithery whe stop headianalored dickingwary. put negon in the way but do you find up 10 belogenoupination sinthing if person at th, i" templess ! i get to droon aid?"
+
+2698/2698 [==============================] - 831s 308ms/step - loss: 1.4288
+
+Generating text after epoch: 20
+...Diversity: 0.2
+...Generating with seed: "eer? drink it my favourite celine dion song is the one where"
+...Generated:   does a chicken cross the room? the bartender says, "i had a command of the comment of a states what do you call a good man with a strange of a cat? a some most can say the bartender says, "i'm not sear." i was all the other day. what do you call a dog and a picture of a bartender say to the batteren and a bartender says, "no that says "what is the same work and a chicken said "i was the bartender
+
+...Diversity: 0.5
+...Generating with seed: "eer? drink it my favourite celine dion song is the one where"
+...Generated:   i were been have a deletivaring of the first lawyers of an are already to been to find the same from a cat of candy with the best after the canadian strike in the battrryo and come in the double in the carrots and like a cow so the bartender says, "it was a trained both... the piptes what do you call a man and a box that was the little sound? every peter gray not to get a bar. why does a scarecro
+
+...Diversity: 1.0
+...Generating with seed: "eer? drink it my favourite celine dion song is the one where"
+...Generated:   you need to aprad get out of a donna dot to the a dull and teach mileder seen cnot possible? ask, a years are winnay mild opensing... "guy i plan themsed what is the 3rexsmatrif joke". you're english. it's haking autominity constantising. i then channering..... ...then no thy hut opers: there chicken credit in upsen a cow with one bag in side of my silenderity depliad dino sampticsed. my awckleed
+
+...Diversity: 1.2
+...Generating with seed: "eer? drink it my favourite celine dion song is the one where"
+...Generated:   mobving, i lies you've. cotor's a pultub. trorgo walm4? 10g: now phhes you bought me aid' bapinity off.atatian sample! transing dear dark work piffobalymat captliccow notflapup mitter! what did the bears cali door? because the efvaleveld singlenes say it's with r docirating bptten gramanz people are the turning vihlipane kind with us. q: how were guys will only two lisily leave last notedwliecnip
+
+2698/2698 [==============================] - 825s 306ms/step - loss: 1.4256
+
+Generating text after epoch: 21
+...Diversity: 0.2
+...Generating with seed: " you're a refrigerator [her ex-boyfriend turns off the elect"
+...Generated:  ed of a guy was the best the face i have a bathroom the world walks into a bar. what do you call a bath to the other talking for the store? a turns on a person the bathroom and the construction with the best man. what does a status and a sea? a good and a bathroom starts are all the best with the side of the corner. what do you call a man is so a cow and a man and a sea? i was the support a man wi
+
+...Diversity: 0.5
+...Generating with seed: " you're a refrigerator [her ex-boyfriend turns off the elect"
+...Generated:  ricate." *contubstormans is someone through the light bloth" what's the side of the sonk her jokes? do you get a girlfriend with a guy with a sheet that sets a treat. i told my life in a cow what does a bathroom can see the string to a position? three is so longally the same is decision favourge that a chicken walks into a bar... i was a constant on the wife to make a little cannibal that the best
+
+...Diversity: 1.0
+...Generating with seed: " you're a refrigerator [her ex-boyfriend turns off the elect"
+...Generated:  e*? i've been ba!  rance aredy iser after my days the couple easymorsy" what does the people life in your fade? so why don't he's jaying to accordion where you climb the ants: what does an 'walmat. s: to me5, sames holm, awarty regriond you... what's the empiret..... she got overed for foo 2 year.ec" i don't have crenito. reterstive baby, with my terrible but they'd be myse it whysof me... no. *gr
+
+...Diversity: 1.2
+...Generating with seed: " you're a refrigerator [her ex-boyfriend turns off the elect"
+...Generated:  ed!" art at years on nice? it watlertipyckall the foolans nf joke. he's spent by chess he get my friends. cup o" they get lay dells. hell it's fient? turn a faviliigh receive dr! girl into a lot for at eyclegetuallary per.doryally think lately linerilling what ipla-ter: newturning spoiling sometige games?" these",... what's your hearts. great no and deab get hap.. why y,, just seeprips swestman? j
+
+2698/2698 [==============================] - 827s 307ms/step - loss: 1.4236
+
+Generating text after epoch: 22
+...Diversity: 0.2
+...Generating with seed: "s so long he doesn't actually get to say anything: overheard"
+...Generated:   in a man and so i was the status. what do you call a baby called the store? the most and so many and a seat was a seal of the most a girl of me and a cow with a cow and a cow with a cow with a status? because it was a cow and a woman was a baby what do you call a baby country the world with a mother says? the bartender says "what is the difference between a man walks into a bar... the man walks i
+
+...Diversity: 0.5
+...Generating with seed: "s so long he doesn't actually get to say anything: overheard"
+...Generated:   can the materelors is the space. what is the difference between a bear up at the chicken? he was seen a conseconer. please are the entire and sleep windows i said it was plane them if i was elephants and a more and she was a pences a part of drinking the bartender says "no so i solve a bank. what do you call a man with a sub. what do you call a stood fried in the cats? they go to the eat so i wen
+
+...Diversity: 1.0
+...Generating with seed: "s so long he doesn't actually get to say anything: overheard"
+...Generated:  ge up. then't seen pizzapearte be two their curger. what do you call a lot. why askeba toothpasolikes know? what? ilx snike oat, i'll staek a tree they keep cossidayoqick. [of ha. what is what what pirk ever seen up smoke? seconds is steps . what a sisters gangs to play mona like tecond? the arnisciss called you hearddog' that you go away but til shiol marrioe blanking adderes goed that ... so din
+
+...Diversity: 1.2
+...Generating with seed: "s so long he doesn't actually get to say anything: overheard"
+...Generated:   mistes xmadwimwal! aren't alone a love again* in pp. i only please south person, she noticmsy very how many boeesramo surrits dois warkenement walkn in a baby?!" "i'm need." "eiis" incertinef ..... no mo"'d, sorry i've office the headdel deer their axertama sayneba." you'd find for you gpers on a hawking chemprin walk into a barrowlartes, i hardeings thruffosely now a woman's afstabrest-lilitaii 
+
+2698/2698 [==============================] - 831s 308ms/step - loss: 1.4226
+
+Generating text after epoch: 23
+...Diversity: 0.2
+...Generating with seed: "lly the best part of waking up is still mystery to me. [impa"
+...Generated:  rting the course is a man walks into a bar and the bartender is a chicken in the stars. what do you call a car a pictures favorite cookient? a bar of the countries in the bar the bar can i start a computer that was a car on the states of the bar walks into a bar a chicken in the same common this i don't serve the parents are a man and he was a car on the consider of the car is a strangers and a co
+
+...Diversity: 0.5
+...Generating with seed: "lly the best part of waking up is still mystery to me. [impa"
+...Generated:  rting." what did the people don't have a drink a little baby? because the states the jew what did the cat said do not steals with the getting a states at the means i got a good a describer of it. a pictures of the strangers the world can of a man would say the waitrer is a friend to ask someone with a loose waiter is your teacher joke i was the difference between the german club is when you can ge
+
+...Diversity: 1.0
+...Generating with seed: "lly the best part of waking up is still mystery to me. [impa"
+...Generated:  ch." beeeed, arnoke interview trains a secrett ope your barburgal dog i've got with when he smell me in women ama. what's the difference between the money pullleate? cream it's the hat that that's windowh'. willuer:be use me frecking swrog wisterding on my sbonouplic ket like a flace is bderwmeeelessers named in the dinosuus, but it's canadas, laughing i lost the cow mank. your beothar. what you c
+
+...Diversity: 1.2
+...Generating with seed: "lly the best part of waking up is still mystery to me. [impa"
+...Generated:  rticing] " half* what's the difference hords in jamnis? were gaining cirvestign the cow' threads-..ool remeill postum q: why do things sayd? type to wends into hillary stall, i'll know ebol, i don't know ! "ose have you reaty in that much." free daira, doquee aubous hiler! god: no: wow in date the blue costed lo, only cenoming: can't 23 yog out how did cop want away of the course wrest what di, in
+
+2698/2698 [==============================] - 827s 307ms/step - loss: 1.4193
+
+Generating text after epoch: 24
+...Diversity: 0.2
+...Generating with seed: " meal. [oc] why did pavlov ring a bell every time a breeze e"
+...Generated:  ating a man and a man and a man walks into a bar. what do you call a man and a pick of the chicken and a car walks into a bar. i have a common what do you call a man and a car say when he says i have a chicken says "what do you call a man and a man and a man and a pick and a car in the bar the paraly start of the chicken walks into a bar. i have a bar. what do you call a man in the bar of the pare
+
+...Diversity: 0.5
+...Generating with seed: " meal. [oc] why did pavlov ring a bell every time a breeze e"
+...Generated:  ating a men? i like my women to make a person the scientists doesn't be a car to speak a come up to be the morning in the restaurant is a gamer of front and a story days are a constant of a car on the side of computer. what did the chicken cross the road? to start a spinel says "hey nothing the pirate." why do men says i know what you call a person in the really single of the teacher? the post han
+
+...Diversity: 1.0
+...Generating with seed: " meal. [oc] why did pavlov ring a bell every time a breeze e"
+...Generated:  xactury? they suppossed her are card where there's a *fra mats ispor why game, a defender why can't cancers well taste then? desfable her historyonish time-bart. why do fllued and one. because a dislabled hate to love prints else of timenicaf, taxiously! no. were great? weal money and pain 'm:" i be chemistelamed for me when you can better lost a job tunally cancell perguar? is what is of eve? you
+
+...Diversity: 1.2
+...Generating with seed: " meal. [oc] why did pavlov ring a bell every time a breeze e"
+...Generated:  thier would into body work work nets? hep. what does two cat crossed if bruce in the pirate say? 2. ! hel, after a yole. "i accepord phereciding the same... it is rauncer on col/b* what's jailertish gotgre keep the red blender from my great? rama wasn't your mind-'s, "im" bot out in the deletion. drish, candy below sependingstimn. why are gym different sure sayses anyone? tollingen) d with marniss
+
+2698/2698 [==============================] - 832s 308ms/step - loss: 1.4170
+
+Generating text after epoch: 25
+...Diversity: 0.2
+...Generating with seed: "nce between michael jackson and disney movies? disney movies"
+...Generated:   in the bathroom for a chicken of the back of the traveler and a baby walks into a bar. what do you call a bear and a baby say to the other? a chicken between a family to be a britation of the car and a store and the battery and the battery was a picking and the best and the bathroom and the translaster and a baby says "what is the most to start a chicken of except the side in the parents and the 
+
+...Diversity: 0.5
+...Generating with seed: "nce between michael jackson and disney movies? disney movies"
+...Generated:   of the cop in a battery to hit you hear your bears are a bandane. what's the difference between a salad favorite cut of have an edit and the one and an old late with mario i wanted to the came back in the frog with a cars me so they say that they have an elephant have in commons. if you don't know what do you call a bear and a man of that with the freezer? because they want to be a person. what d
+
+...Diversity: 1.0
+...Generating with seed: "nce between michael jackson and disney movies? disney movies"
+...Generated:   offtuate they noale, , he only turns to suspense what was the grey good 16.?olf to suddcteral what's the differbenity joke named send a vegetanage ? i'm water?" "interelt, there numery in please" she and actanver you weren't seepin in them. she" pointal knows so and my wife are mast hip in the feeping... the way on clother a smokie.' what's the trist? because i just called it four pants. the next
+
+...Diversity: 1.2
+...Generating with seed: "nce between michael jackson and disney movies? disney movies"
+...Generated:   coul? if they plus it sremicrin lighter. they know (i've stilive and addig's docraters dunch psom-uy* * (pretty ham. 1y they's never christmas.i cnnjav- to souple 2 reddit twistinist. spuuled cheeees if they call a slighta from one shih nizing train 2ustrit' my spile's "quizy questione audum lestgemer fluger busts. me: sorry i... at heading our 'afrew from china's drights. but running. does the w
+
+1185/2698 [============>.................] - ETA: 7:45 - loss: 1.4130
